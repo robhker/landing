@@ -2,8 +2,8 @@ name = "HSC RESOURCES GROUP LIMITED"
 license = "MIT"
 licenselink = "https://github.com/robhker/landing/blob/main/LICENSE.md"
 description = "HSC RESOURCES GROUP LIMITED"
-homepage = "https://hxcgroup.hk"
-demosite = "https://hxcgroup.hk"
+homepage = "https://hscgroup.hk"
+demosite = "https://hscgroup.hk"
 tags = ["academic",
         "university",
         "research",
@@ -38,4 +38,4 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 
 [author]
   name = "鸿盛昌资源集团有限公司 HSC RESOURCES GROUP LIMITED"
-  homepage = "https://hxcgroup.hk"
+  homepage = "https://hscgroup.hk"
