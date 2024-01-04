@@ -1,31 +1,77 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-01-01
 type: landing
 
 sections:
-  - block: hero
+  - block: slider
     content:
-      title: |
-        鸿盛昌资源集团有限公司
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        这里是 **鸿盛昌资源集团有限公司** 开屏介绍
-  
+      slides:
+      - title: 👋 超棒的公司
+        content: 这是一间超棒的公司...
+        align: center
+        background:
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: 了解更多
+          url: ../zh/intro/
+      - title: 真的很棒 ☕️
+        content: 没有开玩笑的棒
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: 了解更多
+          url: ../zh/intro/
+      - title: 非常好的那种棒
+        content: 听我说是真的
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: 了解更多
+          url: ../zh/intro/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
+
   - block: collection
     content:
-      title: Latest News
+      title: 公司新闻
       subtitle:
       text:
       count: 5
       filters:
         author: ''
         category: ''
-        exclude_featured: false
+        exclude_featured: true
         publication_type: ''
         tag: ''
       offset: 0
@@ -33,34 +79,5 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
       columns: '1'
 ---

@@ -28,7 +28,7 @@ main:
     url: tour
     weight: 5
   - name: Intro
-    url: tour
+    url: intro
     weight: 10
   - name: News
     url: post
