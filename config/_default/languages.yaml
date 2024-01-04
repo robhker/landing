@@ -6,17 +6,35 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh:
+ languageCode: zh-Hans
+ contentDir: content/zh
+ title: 鸿盛昌资源集团有限公司 HSC RESOURCES GROUP LIMITED
+ params:
+   description: 鸿盛昌资源集团有限公司 HSC RESOURCES GROUP LIMITED
+ menu:
+   main:
+     - name: 首页
+       url: tour
+       weight: 5
+     - name: 简介
+       url: tour
+       weight: 10
+     - name: 新闻
+       url: post
+       weight: 20
+     - name: 主要业务
+       url: people
+       weight: 30
+     - name: 未来规划
+       url: event
+       weight: 40
+     - name: 年报
+       url: publication
+       weight: 50
+     - name: 联络我们
+       url: contact
+       weight: 60
