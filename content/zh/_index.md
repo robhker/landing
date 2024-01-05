@@ -13,13 +13,13 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: 1.webp
             filters:
               brightness: 0.7
           position: right
           color: '#666'
         link:
-          icon: graduation-cap
+          icon: circle-info
           icon_pack: fas
           text: 了解更多
           url: ../zh/intro/
@@ -28,13 +28,13 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: 2.webp
             filters:
               brightness: 0.7
           position: center
           color: '#555'
         link:
-          icon: graduation-cap
+          icon: circle-info
           icon_pack: fas
           text: 了解更多
           url: ../zh/intro/
@@ -43,13 +43,13 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: 3.webp
             filters:
               brightness: 0.5
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: circle-info
           icon_pack: fas
           text: 了解更多
           url: ../zh/intro/
@@ -65,7 +65,7 @@ sections:
   - block: collection
     content:
       title: 公司新闻
-      subtitle:
+      subtitle: 最近一段时间的公司动态
       text:
       count: 5
       filters:

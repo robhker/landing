@@ -7,6 +7,29 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  menu:
+    main:
+      - name: Homepage
+        url: /
+        weight: 10
+      - name: Introduction
+        url: intro
+        weight: 20
+      - name: News
+        url: post
+        weight: 30
+      - name: Business
+        url: people
+        weight: 40
+      - name: Plan
+        url: event
+        weight: 50
+      - name: Report
+        url: publication
+        weight: 60
+      - name: Contact
+        url: contact
+        weight: 70
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
@@ -21,23 +44,56 @@ zh:
   menu:
     main:
       - name: 首页
-        url: tour
-        weight: 5
-      - name: 简介
-        url: tour
+        url: /
         weight: 10
-      - name: 新闻
-        url: post
+      - name: 简介
+        url: intro
         weight: 20
+      # - name: 公司新闻
+      #   url: post
+      #   weight: 30
       - name: 主要业务
-        url: people
-        weight: 30
+        url: business
+        weight: 40
       - name: 未来规划
         url: event
-        weight: 40
-      - name: 年报
-        url: publication
         weight: 50
+      - name: 公司年报
+        url: publication
+        weight: 60
       - name: 联络我们
         url: contact
+        weight: 70
+
+zh-hant:
+  languageCode: zh-Hans
+  contentDir: content/zh-hant
+  title: 鸿盛昌资源集团有限公司 HSC RESOURCES GROUP LIMITED
+  params:
+    description: 鸿盛昌资源集团有限公司 HSC RESOURCES GROUP LIMITED
+    locale:
+      date_format: '2006年 Jan 02日'
+      time_format: '15:04'
+  menu:
+    main:
+      - name: 首页
+        url: /
+        weight: 10
+      - name: 简介
+        url: intro
+        weight: 20
+      - name: 公司新闻
+        url: post
+        weight: 30
+      - name: 主要业务
+        url: people
+        weight: 40
+      - name: 未来规划
+        url: event
+        weight: 50
+      - name: 公司年报
+        url: publication
         weight: 60
+      - name: 联络我们
+        url: contact
+        weight: 70

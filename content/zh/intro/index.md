@@ -1,57 +1,8 @@
 ---
 title: 公司简介
-date: 2020-12-01
-
-# Show the page's date?
-show_date: true
-
-# Show estimated reading time?
-reading_time: true
-
-# Show social sharing links?
-share: false
-
-# Show author profile (photo and bio) under the content?
-# Edit your author profiles in the `content/authors/` folder
-# Then reference their folder names with the `authors` front matter option above
-profile: true
-
-# Allow users to comment on the page?
-# Requires commenting to be configured in `params.yaml`
-commentable: true
-
-# Allow visitors to make improvements to the page?
-# Requires a repository to be configured in `params.yaml`
-editable: false
-
-# Show a link to the next article in the series?
-pager: false
-
-# Show recommendations for related content?
-show_related: false
-
-# Show breadcrumb navigation?
-show_breadcrumb: true
-
-# Hide the navigation bar?
-# Often used together with `show_breadcrumb`
-header:
-  navbar:
-    enable: true
-
-# Cover image
-# To use, place an image named `featured.jpg/png` in your page's folder.
-# Otherwise, specify the `filename` option to load an image from your `assets/media/` folder.
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-# Set `preview_only` to `true` to just use the image for thumbnails.
-image:
-  placement: 1
-  caption: 'Photo by [Geo](https://github.com/gcushen/)'
-  focal_point: 'Smart'
-  preview_only: false
-  alt_text: An optional description of the image for screen readers.
-  filename: hr.jpg  # Uncomment to load an image fr
+date: 2024-01-01
+banner:
+  image: 'banner.webp'
 ---
 
 华润的前身是于1938年在香港成立的“联和行”。1948年联和进出口公司改组更名为华润公司。1952年隶属关系由中共中央办公厅转为中央贸易部（现为商务部）。1983年改组成立华润（集团）有限公司。1999年12月，与外经贸部脱钩，列为中央管理。2003年归属国务院国资委直接监管，被列为国有重点骨干企业。

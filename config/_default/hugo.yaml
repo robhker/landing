@@ -10,8 +10,8 @@ baseURL: 'https://hscgroup.hk/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-hasCJKLanguage: false
+defaultContentLanguage: zh
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
@@ -60,3 +60,20 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /post/**
+    pager: false
+    editable: false
+    reading_time: false
+    commentable: false
+    show_date: true
+    show_related: false
+    show_breadcrumb: true
+    share: false
+    profile: false
+    header:
+      navbar:
+        enable: true
