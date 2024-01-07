@@ -62,9 +62,8 @@ sitemap:
   _merge: deep
 
 cascade:
-  # Configure blog posts
   - _target:
-      path: /post/**
+      path: /**/**
     pager: false
     editable: false
     reading_time: false

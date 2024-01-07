@@ -4,38 +4,7 @@ licenselink = "https://github.com/robhker/landing/blob/main/LICENSE.md"
 description = "HSC RESOURCES GROUP LIMITED"
 homepage = "https://hscgroup.hk"
 demosite = "https://hscgroup.hk"
-tags = ["academic",
-        "university",
-        "research",
-        "publications",
-        "widgets",
-        "portfolio",
-        "responsive",
-        "clean",
-        "company",
-        "blog",
-        "events",
-        "minimal",
-        "light",
-        "dark",
-        "multilingual",
-        "landing page",
-        "contact form",
-        "mobile",
-        "search",
-        "presentation",
-        "simple",
-        "minimalist",
-        "starter",
-        "modern",
-        "one page",
-        "customizable",
-        "technical",
-        "slide"
-        ]
-features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
-            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
 [author]
-  name = "鸿盛昌资源集团有限公司 HSC RESOURCES GROUP LIMITED"
+  name = "HSC RESOURCES GROUP LIMITED"
   homepage = "https://hscgroup.hk"

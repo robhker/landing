@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 信赖有道
+        content: 可靠的合作伙伴方可共创未来
         align: center
         background:
           image:
@@ -18,8 +18,13 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        link:
+          icon: circle-info
+          icon_pack: fas
+          text: 了解更多
+          url: ../intro/
+      - title: 业务广泛
+        content: 多领域投资，引领行业发展，以卓越品质引领行业发展
         align: left
         background:
           image:
@@ -28,8 +33,13 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+        link:
+          icon: circle-info
+          icon_pack: fas
+          text: 了解更多
+          url: ../intro/
+      - title: 实现共赢
+        content: 与您共同创造成功的故事
         align: right
         background:
           image:
@@ -39,39 +49,29 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: circle-info
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: 了解更多
+          url: ../intro/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
+      slide_height: '400px'
+      is_fullscreen: false
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-  - block: hero
-    content:
-      title: |
-        HSC RESOURCES GROUP LIMITED
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        Here is **HSC RESOURCES GROUP LIMITED** Introduction
-  
+
   - block: collection
     content:
-      title: Latest News
-      subtitle:
+      title: 公司新闻
+      subtitle: 最近一段时间的公司动态
       text:
       count: 5
       filters:
         author: ''
         category: ''
-        exclude_featured: false
+        exclude_featured: true
         publication_type: ''
         tag: ''
       offset: 0
@@ -79,34 +79,5 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: 1.webp
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
       columns: '1'
 ---

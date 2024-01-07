@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    site_type: LocalBusiness
+    local_business_type: 'ProfessionalService'
+    org_name: '鸿盛昌资源集团有限公司 HSC RESOURCES GROUP LIMITED'
+    description: '鸿盛昌资源集团有限公司 HSC RESOURCES GROUP LIMITED'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -113,11 +113,11 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: algolia
     algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
+      app_id: 'ZLF3HSIXF9'
+      api_key: '4a744c33c977ebc81146d5a0f84a5715'
+      index_name: 'HSC RESOURCES GROUP LIMITED'
       show_logo: false
   map:
     provider: 'mapnik'

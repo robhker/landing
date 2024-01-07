@@ -2,33 +2,40 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
 en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  languageCode: en-US
   contentDir: content/en
+  title: 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED
+  params:
+    description: 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED
+    locale:
+      date_format: 'Jan 2, 2006'
+      time_format: '3:04 PM'
+    footer:
+      copyright:
+        notice: '© {year} HSC RESOURCES GROUP LIMITED'
   menu:
     main:
       - name: Homepage
-        url: /
+        url: en
         weight: 10
       - name: Introduction
-        url: intro
+        url: en/intro
         weight: 20
-      - name: News
-        url: post
-        weight: 30
+      # - name: News
+      #   url: post
+      #   weight: 30
       - name: Business
-        url: people
+        url: en/business
         weight: 40
       - name: Plan
-        url: event
+        url: en/plan
         weight: 50
       - name: Report
-        url: publication
+        url: en/report
         weight: 60
       - name: Contact
-        url: contact
+        url: en/contact
         weight: 70
 
 # Uncomment the lines below to configure your website in a second language.
@@ -41,6 +48,9 @@ zh:
     locale:
       date_format: '2006年 Jan 02日'
       time_format: '15:04'
+    footer:
+      copyright:
+        notice: '© {year} 鸿盛昌资源集团有限公司 HSC RESOURCES GROUP LIMITED'
   menu:
     main:
       - name: 首页
@@ -56,44 +66,47 @@ zh:
         url: business
         weight: 40
       - name: 未来规划
-        url: event
+        url: plan
         weight: 50
       - name: 公司年报
-        url: publication
+        url: report
         weight: 60
       - name: 联络我们
         url: contact
         weight: 70
 
 zh-hant:
-  languageCode: zh-Hans
+  languageCode: zh-Hant
   contentDir: content/zh-hant
-  title: 鸿盛昌资源集团有限公司 HSC RESOURCES GROUP LIMITED
+  title: 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED
   params:
-    description: 鸿盛昌资源集团有限公司 HSC RESOURCES GROUP LIMITED
+    description: 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED
     locale:
       date_format: '2006年 Jan 02日'
       time_format: '15:04'
+    footer:
+      copyright:
+        notice: '© {year} 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED'
   menu:
     main:
-      - name: 首页
-        url: /
+      - name: 首頁
+        url: zh-hant
         weight: 10
-      - name: 简介
-        url: intro
+      - name: 簡介
+        url: zh-hant/intro
         weight: 20
-      - name: 公司新闻
-        url: post
-        weight: 30
-      - name: 主要业务
-        url: people
+      # - name: 公司新聞
+      #   url: post
+      #   weight: 30
+      - name: 主要業務
+        url: zh-hant/business
         weight: 40
-      - name: 未来规划
-        url: event
+      - name: 未來規劃
+        url: zh-hant/plan
         weight: 50
-      - name: 公司年报
-        url: publication
+      - name: 公司年報
+        url: zh-hant/report
         weight: 60
-      - name: 联络我们
-        url: contact
+      - name: 聯絡我們
+        url: zh-hant/contact
         weight: 70

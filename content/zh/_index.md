@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 超棒的公司
-        content: 这是一间超棒的公司...
+      - title: 信赖有道
+        content: 可靠的合作伙伴方可共创未来
         align: center
         background:
           image:
@@ -22,9 +22,9 @@ sections:
           icon: circle-info
           icon_pack: fas
           text: 了解更多
-          url: ../zh/intro/
-      - title: 真的很棒 ☕️
-        content: 没有开玩笑的棒
+          url: ../intro/
+      - title: 业务广泛
+        content: 多领域投资，引领行业发展，以卓越品质引领行业发展
         align: left
         background:
           image:
@@ -37,9 +37,9 @@ sections:
           icon: circle-info
           icon_pack: fas
           text: 了解更多
-          url: ../zh/intro/
-      - title: 非常好的那种棒
-        content: 听我说是真的
+          url: ../intro/
+      - title: 实现共赢
+        content: 与您共同创造成功的故事
         align: right
         background:
           image:
@@ -52,11 +52,11 @@ sections:
           icon: circle-info
           icon_pack: fas
           text: 了解更多
-          url: ../zh/intro/
+          url: ../intro/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
+      slide_height: '400px'
+      is_fullscreen: false
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
