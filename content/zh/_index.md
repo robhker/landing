@@ -22,7 +22,7 @@ sections:
           icon: circle-info
           icon_pack: fas
           text: 了解更多
-          url: ../zh/intro/
+          url: ../intro/
       - title: 业务广泛
         content: 多领域投资，引领行业发展，以卓越品质引领行业发展
         align: left
@@ -37,7 +37,7 @@ sections:
           icon: circle-info
           icon_pack: fas
           text: 了解更多
-          url: ../zh/intro/
+          url: ../intro/
       - title: 实现共赢
         content: 与您共同创造成功的故事
         align: right
@@ -52,7 +52,7 @@ sections:
           icon: circle-info
           icon_pack: fas
           text: 了解更多
-          url: ../zh/intro/
+          url: ../intro/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '400px'
