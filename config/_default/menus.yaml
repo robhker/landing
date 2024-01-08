@@ -3,45 +3,25 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-# main:
-#   - name: Tour
-#     url: tour
-#     weight: 10
-#   - name: News
-#     url: post
-#     weight: 20
-#   - name: People
-#     url: people
-#     weight: 30
-#   - name: Events
-#     url: event
-#     weight: 40
-#   - name: Publications
-#     url: publication
-#     weight: 50
-#   - name: Contact
-#     url: contact
-#     weight: 60
-
 main:
-  - name: Homepage
-    url: en
+  - name: 首頁
+    url: /
     weight: 10
-  - name: Introduction
-    url: en/intro
+  - name: 簡介
+    url: intro
     weight: 20
-  # - name: News
+  # - name: 公司新聞
   #   url: post
   #   weight: 30
-  - name: Business
-    url: en/business
+  - name: 主要業務
+    url: business
     weight: 40
-  - name: Plan
-    url: en/plan
+  - name: 未來規劃
+    url: plan
     weight: 50
-  - name: Report
-    url: en/report
+  - name: 公司年報
+    url: report
     weight: 60
-  - name: Contact
-    url: en/contact
+  - name: 聯絡我們
+    url: contact
     weight: 70

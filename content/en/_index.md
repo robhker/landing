@@ -22,7 +22,7 @@ sections:
           icon: circle-info
           icon_pack: fas
           text: Learn more
-          url: ../intro/
+          url: ../en/intro/
       - title: Wide-ranging business
         content: Multi-disciplinary investment, leading the industry with superior quality
         align: left
@@ -37,7 +37,7 @@ sections:
           icon: circle-info
           icon_pack: fas
           text: Learn more
-          url: ../intro/
+          url: ../en/intro/
       - title: Achieve a win-win situation
         content: Creating success stories with you
         align: right
@@ -52,7 +52,7 @@ sections:
           icon: circle-info
           icon_pack: fas
           text: Learn more
-          url: ../intro/
+          url: ../en/intro/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '400px'

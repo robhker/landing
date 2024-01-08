@@ -10,7 +10,7 @@ baseURL: 'https://hscgroup.hk/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh
+defaultContentLanguage: zh-Hant
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true

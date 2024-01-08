@@ -22,7 +22,7 @@ sections:
           icon: circle-info
           icon_pack: fas
           text: 瞭解更多
-          url: ../zh-hant/intro/
+          url: ../intro/
       - title: 業務廣泛
         content: 多領域投資，引領行業發展，以卓越品質引領行業發展
         align: left
@@ -37,7 +37,7 @@ sections:
           icon: circle-info
           icon_pack: fas
           text: 瞭解更多
-          url: ../zh-hant/intro/
+          url: ../intro/
       - title: 實現共贏
         content: 與您共同創造成功的故事
         align: right
@@ -52,7 +52,7 @@ sections:
           icon: circle-info
           icon_pack: fas
           text: 瞭解更多
-          url: ../zh-hant/intro/
+          url: ../intro/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '400px'
