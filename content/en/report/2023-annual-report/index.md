@@ -1,5 +1,5 @@
 ---
-title: '鸿盛昌资源集团有限公司 2023 年报'
+title: 'HSC RESOURCES GROUP LIMITED 2023 Annual Report'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

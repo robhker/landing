@@ -1,5 +1,5 @@
 ---
-title: 联络我们
+title: Contact Us
 date: 2024-01-01
 
 type: landing
@@ -7,21 +7,21 @@ type: landing
 sections:
   - block: contact
     content:
-      title: 联络我们
+      title: Contact Us
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
       email: contact@hscgroup.hk
       phone: 888 888 88 88
       address:
-        street: 常悦道9号
-        city: 九龙湾
-        region: 香港
+        street: 9 SHEUNG YUET ROAD, KOWLOON BAY
+        city: Kowloon
+        region: HongKong
         postcode: '999077'
-        country: 中国
+        country: China
         country_code: ZH
       coordinates:
-        latitude: '22.3220294'
-        longitude: '114.2053606'
+        latitude: '22.3218'
+        longitude: '114.2077'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - '10:00 - 13:00'

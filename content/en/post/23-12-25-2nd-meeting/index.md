@@ -1,16 +1,16 @@
 ---
-title: 鸿盛昌集团召开粤港澳大湾区工作组2023年第二次工作会议
+title: Hong Sheng Chang Group Holds the Second Working Meeting of Guangdong-Hong Kong-Macao Greater Bay Area Working Group in 2023
 date: 2023-12-25
 ---
 
-12月22日下午，集团董事长、粤港澳大湾区工作组组长王祥明在深圳主持召开粤港澳大湾区工作组2023年第二次工作会议。
+On the afternoon of December 22, Wang Xiangming, Chairman of the Group and leader of the Guangdong-Hong Kong-Macao Greater Bay Area Working Group, presided over the second working meeting of the Guangdong-Hong Kong-Macao Greater Bay Area Working Group 2023 in Shenzhen.
 
 <!--more-->
 
-集团战略管理部汇报了粤港澳大湾区工作组2023年重点工作总结及下一步工作计划；华润置地、电力、建材科技、燃气、三九、医商、金融、化学材料、雪花、健康等相关业务单元负责人汇报了2023年以来集团与各地高层会谈精神落实情况、集团重点关注项目及重大协同项目进展情况；集团驻广东、海南、福建、江西省首席代表围绕区域协同重点工作进行了发言。
+The Group's Strategic Management Department reported on the summary of the key work of the Guangdong-Hong Kong-Macao Greater Bay Area Working Group in 2023 and the next work plan; the persons-in-charge of the relevant business units, including CR Land, Power, Building Materials Science and Technology, Gas, Sanjiu, Medical Business, Finance, Chemical Materials, Snow and Health, reported on the implementation of the spirit of the Group's high-level talks with the various regions, the Group's key projects and the progress of the major synergistic projects since 2023; The chief representatives of the Group in Guangdong, Hainan, Fujian and Jiangxi provinces made speeches focusing on the key work of regional synergy.
 
-王祥明董事长充分肯定了粤港澳大湾区工作组取得的阶段性成果，并指出，工作组要加强与政府对接沟通，落实好集团高访会谈精神；要以重大项目为抓手，塑造集团高质量发展新优势；要做好重点区域工作，支持横琴粤澳深度合作区建设；要以粤东、粤西、粤北建设为抓手，助推集团在广东省的高质量发展。王董强调要持续抓好安全生产，杜绝重特大安全生产事故的发生，全力完成年初制定的商业计划预算目标。
+Chairman Wang Xiangming fully affirmed the milestones achieved by the Guangdong-Hong Kong-Macao Greater Bay Area Working Group and pointed out that the Working Group should strengthen docking and communication with the government and implement the spirit of the Group's high-level visit talks; take major projects as a handhold to shape the Group's new advantages in high-quality development; do a good job in key regions and support the construction of Hengqin Guangdong-Macao Deep Cooperation Zone; and take the construction of eastern Guangdong, western Guangdong and northern Guangdong as a handhold to help boost the Group's We should take the construction in the east, west and north of Guangdong as the key to boost the Group's high quality development in Guangdong Province. Mr. Wang emphasized the need to continue to improve production safety, prevent the occurrence of serious production safety accidents, and make every effort to complete the business plan and budget targets set at the beginning of the year.
 
-集团办公室、战略管理部、粤港澳大湾区内主要业务单元相关负责人及广东、海南、福建、江西省首席代表参加会议。
+The Group's Office, Strategic Management Department, relevant persons in charge of major business units in Guangdong, Hong Kong and Macao Greater Bay Area, and chief representatives of Guangdong, Hainan, Fujian and Jiangxi provinces attended the meeting.
 
-![会议现场](https://winfo.crc.com.cn/news/crc_dynamic/202312/W020231225561002971449.jpg)
+! [Scene of the meeting](https://winfo.crc.com.cn/news/crc_dynamic/202312/W020231225561002971449.jpg)

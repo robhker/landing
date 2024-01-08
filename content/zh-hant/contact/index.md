@@ -20,8 +20,8 @@ sections:
         country: 中國
         country_code: ZH
       coordinates:
-        latitude: '22.3220294'
-        longitude: '114.2053606'
+        latitude: '22.3218'
+        longitude: '114.2077'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - '10:00 - 13:00'

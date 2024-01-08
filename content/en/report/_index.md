@@ -1,5 +1,5 @@
 ---
-title: 公司年报
+title: Annual Report
 
 # Listing view
 view: citation

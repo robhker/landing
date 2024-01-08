@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 信赖有道
-        content: 可靠的合作伙伴方可共创未来
+      - title: Reliable partners for the future
+        content: A reliable partner for the future
         align: center
         background:
           image:
@@ -21,10 +21,10 @@ sections:
         link:
           icon: circle-info
           icon_pack: fas
-          text: 了解更多
+          text: Learn more
           url: ../intro/
-      - title: 业务广泛
-        content: 多领域投资，引领行业发展，以卓越品质引领行业发展
+      - title: Wide-ranging business
+        content: Multi-disciplinary investment, leading the industry with superior quality
         align: left
         background:
           image:
@@ -36,10 +36,10 @@ sections:
         link:
           icon: circle-info
           icon_pack: fas
-          text: 了解更多
+          text: Learn more
           url: ../intro/
-      - title: 实现共赢
-        content: 与您共同创造成功的故事
+      - title: Achieve a win-win situation
+        content: Creating success stories with you
         align: right
         background:
           image:
@@ -51,7 +51,7 @@ sections:
         link:
           icon: circle-info
           icon_pack: fas
-          text: 了解更多
+          text: Learn more
           url: ../intro/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
@@ -64,8 +64,8 @@ sections:
 
   - block: collection
     content:
-      title: 公司新闻
-      subtitle: 最近一段时间的公司动态
+      title: Company News
+      subtitle: Company news in recent times
       text:
       count: 5
       filters:

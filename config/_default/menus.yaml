@@ -25,23 +25,23 @@
 
 main:
   - name: Homepage
-    url: tour
-    weight: 5
-  - name: Intro
-    url: intro
+    url: en
     weight: 10
-  - name: News
-    url: post
+  - name: Introduction
+    url: en/intro
     weight: 20
+  # - name: News
+  #   url: post
+  #   weight: 30
   - name: Business
-    url: people
-    weight: 30
-  - name: Plan
-    url: event
+    url: en/business
     weight: 40
-  - name: Report
-    url: publication
+  - name: Plan
+    url: en/plan
     weight: 50
-  - name: Contact
-    url: contact
+  - name: Report
+    url: en/report
     weight: 60
+  - name: Contact
+    url: en/contact
+    weight: 70
