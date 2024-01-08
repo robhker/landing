@@ -79,11 +79,11 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-6 mt-3">
       {{ $image := resources.Get (path.Join "media" $block.design.image) }}
       <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
     </div>
-    <div class="col-md-6 mt-4">
+    <div class="col-md-6 mt-3">
       <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
         {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
     

@@ -32,6 +32,7 @@ marketing:
 # Site header
 
 header:
+  on_scroll: true
   navbar:
     # Choose a navigation block
     block: navbar
