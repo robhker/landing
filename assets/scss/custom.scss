@@ -1,0 +1,18 @@
+.site-footer {
+    color: #999999;
+}
+
+.page-footer {
+    background: #302F2C;
+}
+
+footer .powered-by-info {
+    color: #999999;
+    list-style-type: none;
+    text-align: left;
+    font-size: 0.67rem;
+    @include media-breakpoint-down(sm) {
+      /* 12px is min size required by Lighthouse on mobile */
+      font-size: 12px;
+    }
+}

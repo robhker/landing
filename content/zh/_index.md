@@ -78,6 +78,7 @@ sections:
       order: desc
       page_type: post
     design:
+      image: 'news.webp'
       view: compact
       columns: '1'
 ---
