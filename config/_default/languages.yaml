@@ -2,41 +2,41 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# en:
-#   languageCode: en-US
-#   contentDir: content/en
-#   title: 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED
-#   params:
-#     description: 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED
-#     locale:
-#       date_format: 'Jan 2, 2006'
-#       time_format: '3:04 PM'
-#     footer:
-#       copyright:
-#         notice: '© {year} HSC RESOURCES GROUP LIMITED'
-#   menu:
-#     main:
-#       - name: Homepage
-#         url: en
-#         weight: 10
-#       - name: Introduction
-#         url: en/intro
-#         weight: 20
-#       # - name: News
-#       #   url: post
-#       #   weight: 30
-#       - name: Business
-#         url: en/business
-#         weight: 40
-#       - name: Plan
-#         url: en/plan
-#         weight: 50
-#       - name: Report
-#         url: en/report
-#         weight: 60
-#       - name: Contact
-#         url: en/contact
-#         weight: 70
+en:
+  languageCode: en-US
+  contentDir: content/en
+  title: 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED
+  params:
+    description: 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED
+    locale:
+      date_format: 'Jan 2, 2006'
+      time_format: '3:04 PM'
+    footer:
+      copyright:
+        notice: '© {year} HSC RESOURCES GROUP LIMITED'
+  menu:
+    main:
+      - name: Homepage
+        url: en
+        weight: 10
+      - name: Introduction
+        url: en/intro
+        weight: 20
+      # - name: News
+      #   url: post
+      #   weight: 30
+      - name: Business
+        url: en/business
+        weight: 40
+      - name: Plan
+        url: en/plan
+        weight: 50
+      - name: Report
+        url: en/report
+        weight: 60
+      - name: Contact
+        url: en/contact
+        weight: 70
 
 zh:
   languageCode: zh-Hans
@@ -74,38 +74,38 @@ zh:
         url: contact
         weight: 70
 
-# zh-hant:
-#   languageCode: zh-Hant
-#   contentDir: content/zh-hant
-#   title: 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED
-#   params:
-#     description: 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED
-#     locale:
-#       date_format: '2006年 Jan 02日'
-#       time_format: '15:04'
-#     footer:
-#       copyright:
-#         notice: '© {year} 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED'
-#   menu:
-#     main:
-#       - name: 首頁
-#         url: /
-#         weight: 10
-#       - name: 簡介
-#         url: zh-hant/intro
-#         weight: 20
-#       # - name: 公司新聞
-#       #   url: post
-#       #   weight: 30
-#       - name: 主要業務
-#         url: zh-hant/business
-#         weight: 40
-#       - name: 未來規劃
-#         url: zh-hant/plan
-#         weight: 50
-#       - name: 公司年報
-#         url: zh-hant/report
-#         weight: 60
-#       - name: 聯絡我們
-#         url: zh-hant/contact
-#         weight: 70
+zh-hant:
+  languageCode: zh-Hant
+  contentDir: content/zh-hant
+  title: 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED
+  params:
+    description: 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED
+    locale:
+      date_format: '2006年 Jan 02日'
+      time_format: '15:04'
+    footer:
+      copyright:
+        notice: '© {year} 鴻盛昌資源集團有限公司 HSC RESOURCES GROUP LIMITED'
+  menu:
+    main:
+      - name: 首頁
+        url: /
+        weight: 10
+      - name: 簡介
+        url: zh-hant/intro
+        weight: 20
+      # - name: 公司新聞
+      #   url: post
+      #   weight: 30
+      - name: 主要業務
+        url: zh-hant/business
+        weight: 40
+      - name: 未來規劃
+        url: zh-hant/plan
+        weight: 50
+      - name: 公司年報
+        url: zh-hant/report
+        weight: 60
+      - name: 聯絡我們
+        url: zh-hant/contact
+        weight: 70

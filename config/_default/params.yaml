@@ -38,7 +38,7 @@ header:
     # Display the navigation bar?
     enable: true
     # Align menu links: left (l), center (c), or right (r)
-    align: r
+    align: l
     # Display your site title or `assets/media/logo*` image in the nav bar?
     show_logo: true
     # Show a language chooser (if you have translated your site content)?
@@ -102,13 +102,13 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
-  search:
-    provider: algolia
-    algolia:
-      app_id: 'ZLF3HSIXF9'
-      api_key: '4a744c33c977ebc81146d5a0f84a5715'
-      index_name: 'HSC RESOURCES GROUP LIMITED'
-      show_logo: false
+  # search:
+  #   provider: algolia
+  #   algolia:
+  #     app_id: 'ZLF3HSIXF9'
+  #     api_key: '4a744c33c977ebc81146d5a0f84a5715'
+  #     index_name: 'HSC RESOURCES GROUP LIMITED'
+  #     show_logo: false
   map:
     provider: 'mapnik'
     api_key: ''

@@ -80,7 +80,8 @@
 <div class="container">
   <div class="row">
     <div class="col-md-6">
-      <img src="/media/{{ $block.design.image }}" alt="Image" class="img-fluid">
+      {{ $image := resources.Get (path.Join "media" $block.design.image) }}
+      <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
     </div>
     <div class="col-md-6 mt-4">
       <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
