@@ -11,20 +11,20 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
       email: contact@hscgroup.hk
-      phone: 888 888 88 88
+      phone: +852 97440317
       address:
-        street: 常悦道9号
-        city: 九龙湾
-        region: 香港
-        postcode: '999077'
-        country: 中国
-        country_code: ZH
+        street: 香港湾仔区港湾道26号华润大厦34楼3404-06室 Room 3404-06, 34/F China Resources Building, 26 Harbour Road, Wanchai, Hong Kong
+        # city: 湾仔区
+        # region: 香港
+        # postcode: '999077'
+        # country: 中国
+        # country_code: ZH
       coordinates:
-        latitude: '22.3218'
-        longitude: '114.2077'
+        latitude: '22.2800'
+        longitude: '114.1755'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - '10:00 - 13:00'
+        - '09:00 - 18:00'
       # appointment_url: 'https://calendly.com'
       # contact_links:
       #  - icon: comments

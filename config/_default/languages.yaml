@@ -57,22 +57,22 @@ zh:
         url: /
         weight: 10
       - name: 简介
-        url: zh/intro
+        url: intro
         weight: 20
       # - name: 公司新闻
       #   url: post
       #   weight: 30
       - name: 主要业务
-        url: zh/business
+        url: business
         weight: 40
       - name: 未来规划
-        url: zh/plan
+        url: plan
         weight: 50
       - name: 公司年报
-        url: zh/report
+        url: report
         weight: 60
       - name: 联络我们
-        url: zh/contact
+        url: contact
         weight: 70
 
 zh-hant:
@@ -93,20 +93,20 @@ zh-hant:
         url: /
         weight: 10
       - name: 簡介
-        url: intro
+        url: zh/intro
         weight: 20
       # - name: 公司新聞
       #   url: post
       #   weight: 30
       - name: 主要業務
-        url: business
+        url: zh/business
         weight: 40
       - name: 未來規劃
-        url: plan
+        url: zh/plan
         weight: 50
       - name: 公司年報
-        url: report
+        url: zh/report
         weight: 60
       - name: 聯絡我們
-        url: contact
+        url: zh/contact
         weight: 70
