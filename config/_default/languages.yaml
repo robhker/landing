@@ -31,9 +31,9 @@ en:
       - name: Plan
         url: en/plan
         weight: 50
-      - name: Report
-        url: en/report
-        weight: 60
+      # - name: Report
+      #   url: en/report
+      #   weight: 60
       - name: Contact
         url: en/contact
         weight: 70
@@ -67,9 +67,9 @@ zh:
       - name: 未来规划
         url: plan
         weight: 50
-      - name: 公司年报
-        url: report
-        weight: 60
+      # - name: 公司年报
+      #   url: report
+      #   weight: 60
       - name: 联络我们
         url: contact
         weight: 70
@@ -103,9 +103,9 @@ zh-hant:
       - name: 未來規劃
         url: zh-hant/plan
         weight: 50
-      - name: 公司年報
-        url: zh-hant/report
-        weight: 60
+      # - name: 公司年報
+      #   url: zh-hant/report
+      #   weight: 60
       - name: 聯絡我們
         url: zh-hant/contact
         weight: 70

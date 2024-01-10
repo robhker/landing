@@ -32,22 +32,21 @@ marketing:
 # Site header
 
 header:
-  on_scroll: true
   navbar:
     # Choose a navigation block
     block: navbar
     # Display the navigation bar?
     enable: true
     # Align menu links: left (l), center (c), or right (r)
-    align: l
+    align: r
     # Display your site title or `assets/media/logo*` image in the nav bar?
     show_logo: true
     # Show a language chooser (if you have translated your site content)?
-    show_translations: true
+    show_translations: false
     # If `show_translations` is enabled, do you wish to display the current language name?
     show_language: true
     # Let the user override the default light/dark mode of your theme?
-    show_day_night: true
+    show_day_night: false
     # Let the user search from the nav bar?
     show_search: true
     # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.

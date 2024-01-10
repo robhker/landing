@@ -19,8 +19,8 @@ main:
   - name: 未來規劃
     url: plan
     weight: 50
-  - name: 公司年報
-    url: report
+  # - name: 公司年報
+  #   url: report
     weight: 60
   - name: 聯絡我們
     url: contact

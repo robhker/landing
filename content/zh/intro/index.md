@@ -4,7 +4,7 @@ date: 2024-01-01
 image:
   placement: 1
   focal_point: "Smart"
-  filename: intro.webp
+  filename: feature.webp
 ---
 
 鸿盛昌资源集团有限公司（股票代码：01850.HK）是一家在香港上市的综合性企业，主要从事消防安全系统、木材贸易和矿业开发等业务。
