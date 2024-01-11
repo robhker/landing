@@ -1,0 +1,21 @@
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ with $block.content.title }}
+<div class="col-md-12 section-heading">
+  <h1>{{ . | markdownify | emojify }}</h1>
+  {{ if $block.content.subtitle }}<p>{{ $block.content.subtitle | markdownify | emojify }}</p>{{ end }}
+</div>
+{{ end }}
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 mt-3">
+      {{ $image := resources.Get (path.Join "media" $block.design.image) }}
+      <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+    </div>
+    <div class="col-md-6 mt-3">
+      {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
+    </div>
+  </div>
+</div>
