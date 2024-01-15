@@ -10,8 +10,13 @@ sections:
       title: 联络我们
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: contact@hscgroup.hk
+      # email: contact@hscgroup.hk
       phone: +852 2838 8268
+      contact_links:
+       - icon: fax
+         icon_pack: fas
+         name: 2388 6152
+       
       address:
         street: 香港湾仔区港湾道26号华润大厦34楼3404-06室 Room 3404-06, 34/F China Resources Building, 26 Harbour Road, Wanchai, Hong Kong
         # city: 湾仔区
@@ -26,11 +31,7 @@ sections:
       office_hours:
         - '09:00 - 18:00'
       # appointment_url: 'https://calendly.com'
-      # contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+  
     
       # Automatically link email and phone or display as text?
       autolink: true
